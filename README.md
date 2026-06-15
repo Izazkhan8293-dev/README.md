@@ -138,7 +138,7 @@ Philosophy  : "Engineer your ideas into reality."
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🎓 Education
 | Degree | Institution | Year |
@@ -150,7 +150,7 @@ Philosophy  : "Engineer your ideas into reality."
 
 </td>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🏅 Certifications
 - 🟣 **Autodesk Certified Professional** — AutoCAD
