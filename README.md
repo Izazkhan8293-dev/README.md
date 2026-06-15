@@ -146,8 +146,8 @@ Philosophy  : "Engineer your ideas into reality."
 | B.E. — Electrical & Electronics Engineering | M.I.E.T. Engineering College | 2018 – 2022 |
 | Revit MEP — Proficient | CADD Centre Training Services | — |
 | AutoCAD Essential | CADD Centre Training Services | — |
-
 </td>
+
 <td width="50%" valign="top">
 
 ### 🏅 Certifications
