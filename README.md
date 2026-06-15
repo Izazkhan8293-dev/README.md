@@ -144,8 +144,10 @@ Philosophy  : "Engineer your ideas into reality."
 | Degree | Institution | Year |
 |--------|------------|------|
 | B.E. — Electrical & Electronics Engineering | M.I.E.T. Engineering College | 2018 – 2022 |
-| Revit MEP — Proficient | CADD Centre Training Services | — |
-| AutoCAD Essential | CADD Centre Training Services | — |
+| Primevera With PPM Concepts | CADD Centre Training Services | JUN-JUL-2023 |
+| Revit MEP — Proficient | CADD Centre Training Services |JUN-AUG -2023 |
+| AutoCAD Essential | CADD Centre Training Services | JUN-JUL-2023 |
+
 </td>
 
 <td width="50%" valign="top">
