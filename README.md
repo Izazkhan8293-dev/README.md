@@ -1,5 +1,6 @@
 <div align="center">
-
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Engr.%20Izaz%20Sarbudeen&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MV%2FHV%20Electrical%20Engineer%20%7C%20UGC%20%26%20OHTL%20Projects%20%7C%20Aramco%20%26%20SEC&descAlignY=58&descSize=15&animation=fadeIn)
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Engr.%20Izaz%20Sarbudeen&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MV%2FHV%20Electrical%20Engineer%20%7C%20UGC%20%26%20OHTL%20Projects%20%7C%20Aramco%20%26%20SEC&descAlignY=58&descSize=15&animation=fadeIn" />
 
