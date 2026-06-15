@@ -149,7 +149,11 @@ Philosophy  : "Engineer your ideas into reality."
 | AutoCAD Essential | CADD Centre Training Services | JUN-JUL-2023 |
 
 </td>
+</tr>
 
+
+<table>
+<tr>
 <td width="100%" valign="top">
 
 ### 🏅 Certifications
